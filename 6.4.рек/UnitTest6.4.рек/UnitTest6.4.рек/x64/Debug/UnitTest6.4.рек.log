@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest6.4.рек.cpp
+     Creating library D:\VS projects\6.4.рек\UnitTest6.4.рек\x64\Debug\UnitTest6.4.рек.lib and object D:\VS projects\6.4.рек\UnitTest6.4.рек\x64\Debug\UnitTest6.4.рек.exp
+LINK : warning LNK4232: name UnitTest6.4.рек.dll contains non-ASCII characters, DLL may not load on system with ANSI codepage other than 1251
+  UnitTest6.4.рек.vcxproj -> D:\VS projects\6.4.рек\UnitTest6.4.рек\x64\Debug\UnitTest6.4.рек.dll
