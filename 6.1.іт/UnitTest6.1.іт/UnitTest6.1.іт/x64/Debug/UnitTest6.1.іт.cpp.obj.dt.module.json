@@ -1,0 +1,15 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "UnitTest6.1.іт\\x64\\Debug\\UnitTest6.1.іт.obj",
+            "outputs": [
+                "UnitTest6.1.іт\\x64\\Debug\\UnitTest6.1.іт.cpp.obj.dt.module.json",
+                "UnitTest6.1.іт\\x64\\Debug\\UnitTest6.1.іт.cpp.obj.dt.d.json",
+                "UnitTest6.1.іт\\x64\\Debug\\UnitTest6.1.іт.pch"
+            ],
+            "requires": []
+        }
+    ]
+}
