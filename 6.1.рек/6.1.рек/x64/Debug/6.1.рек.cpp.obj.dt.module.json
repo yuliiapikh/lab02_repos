@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "6.1.рек\\x64\\Debug\\6.1.рек.obj",
+            "outputs": [
+                "6.1.рек\\x64\\Debug\\6.1.рек.cpp.obj.dt.module.json",
+                "6.1.рек\\x64\\Debug\\6.1.рек.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
