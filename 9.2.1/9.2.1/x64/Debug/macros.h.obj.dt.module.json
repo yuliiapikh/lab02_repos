@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "9.2.1\\x64\\Debug\\macros.obj",
+            "outputs": [
+                "9.2.1\\x64\\Debug\\macros.h.obj.dt.module.json",
+                "9.2.1\\x64\\Debug\\macros.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
