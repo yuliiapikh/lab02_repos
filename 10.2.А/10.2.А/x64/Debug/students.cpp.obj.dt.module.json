@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "10.2.А\\x64\\Debug\\students.obj",
+            "outputs": [
+                "10.2.А\\x64\\Debug\\students.cpp.obj.dt.module.json",
+                "10.2.А\\x64\\Debug\\students.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest10.2.А.cpp
+     Creating library D:\VS projects\10.2.А\x64\Debug\UnitTest10.2.А.lib and object D:\VS projects\10.2.А\x64\Debug\UnitTest10.2.А.exp
+LINK : warning LNK4232: name UnitTest10.2.А.dll contains non-ASCII characters, DLL may not load on system with ANSI codepage other than 1251
+  UnitTest10.2.А.vcxproj -> D:\VS projects\10.2.А\x64\Debug\UnitTest10.2.А.dll
